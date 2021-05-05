@@ -1,9 +1,18 @@
-# NETFLIX-CLONE
+## Descrição
 
-### utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Aprendi como estruturar um layout, técnicas de CSS3 com containers e variáveis,  e como utilizar plugins Jquery na aplicação.
-
-
+######  **Bootcamp da** ***Digital Innovation One*** , Clone-Netflix utilizando as tecnologias de desenvolvimento front end (HTML, CSS, JavaScript, jquery).
 
 
 
-![CLONE-NETFLIX](https://github.com/Cicerofer/NETFLIX-CLONE/blob/master/Gravity-falls.png)
+
+
+![](C:\Users\cicer\OneDrive\Imagens\Gravity-falls.png)
+
+
+
+
+
+###### 
+
+
+
